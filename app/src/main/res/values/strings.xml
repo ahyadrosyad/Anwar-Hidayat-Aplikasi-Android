@@ -1,0 +1,48 @@
+<resources>
+    <!--Configure your App's name, as displayed in the launcher and optionally the Toolbar -->
+    <string name="app_name">Anwar Hidayat Apps</string>
+    <!--Configure your Admob ID below, or leave empty if you do not want to enable Ads in your app -->
+    <string name="ad_banner_id"><!--admob ad banner unit id here --></string>
+    <string name="ad_interstitial_id"><!--admob ad interstitial id here --></string>
+
+
+    <string name="previous">Sebelumnya</string>
+    <string name="next">Selanjutnya</string>
+    <string name="stop">Stop</string>
+    <string name="no_connection">Data Internet Tidak aktif</string>
+    <string name="ok">Ok</string>
+    <string name="yes">Ya</string>
+    <string name="cancel">Batal</string>
+    <string name="share">Bagikan</string>
+    <string name="error">Eror</string>
+    <string name="about">Tentang</string>
+    <string name="home">Beranda</string>
+    <string name="close">Tutup</string>
+    <string name="download">Unduh</string>
+    <string name="saved">Simpan di: </string>
+    <string name="sharetitle">Bagikan ini!</string>
+    <string name="notification_settings">Pengaturan Pemberitahuan</string>
+    <string name="download_fail">Unduhan Gagal</string>
+    <string name="download_done">File disimpan di Folder Download</string>
+    <string name="exit_message">Terima kasih sudah menggunakan Apps buatan Mahasiswa UBP!</string>
+    <string name="no_app_message">Tidak ada aplikasi yang cocok untuk ini!</string>
+    <string name="dialog_about"><![CDATA[Hay, Sebelumnya terimakasih sudah menggunakan aplikasi ini. Mohon Maaf jika banyak kekurangan yang kamu temukan di Aplikasi ini. Jika ingin melaporkan masalah silahkan Hub. Whatsapp ke 088809224321 atau ke ar.cyberservice@gmail.com. salam Mahasiswa Hukum UBP Karawang]]></string>
+    <string name="drawer_open">Buka</string>
+    <string name="drawer_close">Tutup</string>
+
+    <string name="download_permission_explaination">Untuk bisa mengunduh file.\n\nKamu harus memberikan akses kepada aplikasi ini.</string>
+
+    <string name="common_permission_explaination">Berikan Ijin Aplikasi ini.</string>
+    <string name="common_permission_grant">Ijinkan</string>
+
+    <string name="share1">Saya datang </string>
+    <!--  we will automatically website title here-->
+    <string name="share2"> Gunakan </string>
+    <!--  we will automatically put your apps name and link here -->
+
+    <string name="rate_later">Nanti</string>
+    <string name="rate_never">Tidak Terima kasih</string>
+    <string name="rate_yes">Ya</string>
+    <string name="rate_message">Suka? berikan rating kamu</string>
+    <string name="rate_title">Puas dengan Aplikasi ini?</string>
+</resources>
